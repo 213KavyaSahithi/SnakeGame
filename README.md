@@ -51,6 +51,7 @@ javac snake/*.java
 java snake.SnakeGame
 ```
 
+
 ## Future Enhancements
 
 - 🎵 Sound effects
